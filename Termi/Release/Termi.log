@@ -1,0 +1,8 @@
+﻿  Termi.cpp
+D:\vsproj\Termi\Termi\Termi.cpp(292,88): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\vsproj\Termi\Termi\Termi.cpp(320,88): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Termi.vcxproj -> D:\vsproj\Termi\Release\Termi.exe
