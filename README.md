@@ -11,5 +11,6 @@ ERROR CRAZY
 ![This is an image](https://github.com/botcollig/Termi_1.2/blob/main/Screenshot/5.png)
 circling
 ![This is an image](https://github.com/botcollig/Termi_1.2/blob/main/Screenshot/6.png)
-##Isn't this effect amazing?
-[Video Pages](https://www.bilibili.com/video/BV1ZS4y1i7AX)
+## Isn't this effect amazing?
+# Support the video my friend made for me on YouTube
+[https://youtu.be/biPOaG3Z16U](https://youtu.be/biPOaG3Z16U)
